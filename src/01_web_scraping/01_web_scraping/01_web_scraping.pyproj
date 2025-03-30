@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>a85f52c7-691e-4e62-938d-950148a71a08</ProjectGuid>
+    <ProjectGuid>7c312d52-b282-49e9-bbd2-1d721c679ad2</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>IntuitiveCare.py</StartupFile>
+    <StartupFile>_01_web_scraping.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>IntuitiveCare</Name>
-    <RootNamespace>IntuitiveCare</RootNamespace>
+    <Name>01_web_scraping</Name>
+    <RootNamespace>01_web_scraping</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="IntuitiveCare.py" />
+    <Compile Include="_01_web_scraping.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
