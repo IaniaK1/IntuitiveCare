@@ -1,0 +1,76 @@
+{
+	"info": {
+		"_postman_id": "999428f4-6390-4e11-9bea-a0ed2295ee65",
+		"name": "rotas",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "43654767"
+	},
+	"item": [
+		{
+			"name": "operadoras",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:8000/operadoras?termo=Unimed",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						"operadoras"
+					],
+					"query": [
+						{
+							"key": "termo",
+							"value": "Unimed"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "despesas",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:8000/despesas?data_inicial=2023-10-01&data_final=2024-10-01",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						"despesas"
+					],
+					"query": [
+						{
+							"key": "data_inicial",
+							"value": "2023-10-01"
+						},
+						{
+							"key": "data_final",
+							"value": "2024-10-01"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
