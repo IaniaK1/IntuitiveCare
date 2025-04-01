@@ -19,7 +19,7 @@ Esta pasta contém o código do back-end (FastAPI) e do front-end (Vue.js) da AP
 
 ### Postman
 
-1.  Importe a coleção do Postman em `ferramentas/colecao_postman.json` para testar a API.
+1.  Importe a coleção do Postman em `ferramentas/rotas.postman_collection.json` para testar a API.
 
 ## Dados
 
