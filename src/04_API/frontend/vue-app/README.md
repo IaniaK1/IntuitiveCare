@@ -1,3 +1,6 @@
+## Este é um README padrão do vue, para melhores instrucoes sobre o código veja o README na pasta anterior.
+
+
 # vue-app
 
 This template should help get you started developing with Vue 3 in Vite.
