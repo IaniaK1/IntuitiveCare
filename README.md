@@ -12,7 +12,8 @@ Este repositório contém o código desenvolvido para o teste de nivelamento da 
 * Pandas (para transformação de dados)
 * Beautiful Soup (para web scraping)
 * Requests (para web scraping)
-* PyPDF2 ou tabula-py (para extração de dados de PDF)
+* pdfplumber (para extração de dados de PDF)
+* zipfile (para criacao de arquivos .ZIP)
 
 ## Informações Adicionais
 
