@@ -1,4 +1,4 @@
-## Este é um README padrão do vue, para melhores instrucoes sobre o código veja o README na pasta anterior.
+## Este é um README padrão do vue, para melhores instruções sobre a execução do código veja o README na pasta anterior.
 
 
 # vue-app
