@@ -67,4 +67,3 @@ IntuitiveCare/
 │   ├── colecao_postman.json
 ├── .gitignore
 ├── README.md
-
