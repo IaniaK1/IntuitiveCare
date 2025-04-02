@@ -23,5 +23,5 @@ Este script Python realiza o web scraping do site https://www.gov.br/ans/pt-br/a
 
 ## Informações Adicionais
 
-* O script compacta os arquivos PDF baixados em um arquivo ZIP chamado `compactado.zip`.
+* O script compacta os arquivos PDF baixados em um arquivo ZIP chamado `Anexos.zip`.
 * O arquivo `.sln` é um arquivo de solução do Visual Studio e pode ser ignorado se você não estiver usando o Visual Studio.
